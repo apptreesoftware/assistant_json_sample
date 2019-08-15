@@ -3,7 +3,7 @@
         "message": {
             "type": "promptBool",
             "text": "This is a boolean prompt. Would you like to answer it?",
-            "onCompleteUrl": null,
+            "onCompleteUrl": "http://my-json-server.typicode.com/apptreesoftware/assistant_json_sample/answered",
             "groupId": null,
             "response": null,
             "required": true,
