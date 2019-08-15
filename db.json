@@ -1,0 +1,14 @@
+{
+    "default": {
+        "message": {
+            "type": "promptBool",
+            "text": "This is a boolean prompt. Would you like to answer it?",
+            "onCompleteUrl": null,
+            "groupId": null,
+            "response": null,
+            "required": true,
+            "yesAnswer": "Hell Yes",
+            "noAnswer": "No"
+        }
+    }
+}
